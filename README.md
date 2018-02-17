@@ -1,5 +1,5 @@
 # UTMVirtualCampus
-A proof of concept virtual tour of the University of Tennessee of Martin created with classmates for our Senior Project. 
+A proof of concept virtual tour of the University of Tennessee of Martin created with Houston Howard and Mason Cullen for our Senior Project. 
 
 Due to GitHub file restraints the stand alone applications were hosted on Google Drive:
 
